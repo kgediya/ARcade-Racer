@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    d93d4f3d-e26f-49c6-a85c-19599bee935e: dc5f3cf0-b8ea-c4f4-2193-7c8913341d3d/1c67ecdf70beaa67d3ad65e663a38d72/Data/house_base.png
+  Assets:
+    - !<FileTexture/d93d4f3d-e26f-49c6-a85c-19599bee935e>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 1c67ecdf70beaa67d3ad65e663a38d72
+  FileHash: b5c1e5dd7da6dc316f8538775a5b8774
+  NativePackageItems:
+    []

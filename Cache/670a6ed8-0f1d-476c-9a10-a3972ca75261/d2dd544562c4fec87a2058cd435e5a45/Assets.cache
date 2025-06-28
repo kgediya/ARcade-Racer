@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1aeca2a5-5b0f-462f-ada3-309c6d10601f: 670a6ed8-0f1d-476c-9a10-a3972ca75261/d2dd544562c4fec87a2058cd435e5a45/Data/polka_2.png
+  Assets:
+    - !<FileTexture/1aeca2a5-5b0f-462f-ada3-309c6d10601f>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: d2dd544562c4fec87a2058cd435e5a45
+  FileHash: 8a876e2b58cce674c4f09621b1f769df
+  NativePackageItems:
+    []

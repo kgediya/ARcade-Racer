@@ -1,0 +1,53 @@
+studioVersion:
+  major: 5
+  minor: 10
+  patch: 1
+  build: 25061003
+  type: Public
+coreVersion: 313
+clientVersion: 13.420000
+updateCheckpoint: 61
+sceneId: 0a1ccb1a-fe88-4fbb-9883-e3af3c75fd99
+viewConfig:
+  simulation:
+    device: iPhone 5s
+    cameraFov: 35.578602
+    fullFrameAspect: 0.563000
+    resolutionScale: 1.000000
+    viewport: Maximized
+    output: Live
+    stereoOutputEye: Center
+    deviceTypeOverride: Unknown
+    tint: true
+  cameraType: Front
+metaInfo:
+  hints:
+    []
+  tags:
+    []
+  lensName: ARcade Racer
+  lensDescriptors:
+    - GEN_AI_ICON
+  lensApplicability:
+    - Front
+    - Back
+  lensClientCompatibilities:
+    - Spectacles
+  platformBundlesEnabled: false
+  iconHash: 549993cd97c40c90a469650717ba62d7
+  videoPreviewHash: ""
+  fromTemplateName: Default
+  fromTemplateUrl: Lens Studio 5.10.1.25061003
+  activationCamera: Front
+  sourceMapEnabled: false
+  usingMinClientVersions: false
+  androidMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0
+  iOSMinClientVersion:
+    major: 0
+    minor: 0
+    patch: 0
+    build: 0

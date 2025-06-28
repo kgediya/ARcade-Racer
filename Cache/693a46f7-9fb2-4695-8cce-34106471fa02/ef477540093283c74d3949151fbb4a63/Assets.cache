@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    3526d528-5256-4ff3-bdb0-1a2696a28888: 693a46f7-9fb2-4695-8cce-34106471fa02/ef477540093283c74d3949151fbb4a63/Data/square_mask.pvr
+  Assets:
+    - !<FileTexture/3526d528-5256-4ff3-bdb0-1a2696a28888>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: ef477540093283c74d3949151fbb4a63
+  FileHash: 9d1f681337492e9d46bc858e6139a677
+  NativePackageItems:
+    []

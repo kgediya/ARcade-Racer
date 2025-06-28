@@ -1,0 +1,76 @@
+- !<AssetImportMetadata/7efe1fa8-b08b-4352-953f-6c6946d14793>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 7a3c78c1-4ff4-41a1-9f38-a2b9e6360f03
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 7a3c78c1-4ff4-41a1-9f38-a2b9e6360f03
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 7432801c-3322-452f-8434-ee19587bf474
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/7432801c-3322-452f-8434-ee19587bf474>
+  SvgIcon: |
+    <svg width="108" height="123" viewBox="0 0 108 123" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M84.5195 0C97.2501 0 107.57 10.3202 107.57 23.0508V76.8359C107.57 89.5666 97.2502 99.8867 84.5195 99.8867H71.7139C70.0514 99.8867 68.4335 100.426 67.1035 101.424L38.418 122.938V107.57C38.4178 103.327 34.9778 99.8867 30.7344 99.8867H23.0508C10.3202 99.8867 0 89.5665 0 76.8359V23.0508C3.47708e-05 10.3202 10.3202 3.55652e-05 23.0508 0H84.5195ZM23.167 53.7852C23.0901 54.6002 23.0508 55.4254 23.0508 56.2588C23.0508 71.8667 36.8111 84.5195 53.7852 84.5195C70.7593 84.5195 84.5195 71.8667 84.5195 56.2588C84.5195 55.4376 84.4819 54.6247 84.4072 53.8213C65.9298 53.8485 56.0245 53.8297 45.9023 53.8105C39.2496 53.798 32.503 53.7852 23.167 53.7852ZM34.5762 23.0508C28.211 23.0508 23.051 28.4619 23.0508 35.1367C23.0508 39.3854 25.1414 38.6709 28.3027 37.5898C30.108 36.9725 32.2625 36.2354 34.5762 36.2354C36.8898 36.2354 39.0443 36.9725 40.8496 37.5898C44.011 38.6709 46.1016 39.3855 46.1016 35.1367C46.1014 28.4618 40.9414 23.0508 34.5762 23.0508ZM72.9941 15.3672C66.6289 15.3673 61.4688 20.5274 61.4688 26.8926C61.4688 33.2578 66.6289 38.4179 72.9941 38.418C79.3595 38.418 84.5195 33.2579 84.5195 26.8926C84.5195 20.5273 79.3594 15.3672 72.9941 15.3672Z" fill="white"/>
+    </svg>
+
+  SetupScript:
+    code: ""
+  Description: |-
+    Bitmoji 3D allows you to easily download the 3D avatar of a Snapchat user, their friends, or their AI assistant, and add it to the scene. 
+    
+    See README for more information.
+  InternalVersion: 65
+  VersionMajor: 8
+  VersionMinor: 1
+  VersionPatch: 1
+  ComponentUid: 0005e0cc-4592-ac28-0000-000000067b6a
+  ExportUid: a3151ee2-a611-4241-a0da-1e6de6d36c4f
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    autoDownload: false
+    bitmojiType: false
+    castShadow: false
+    friendIndex: false
+    friendsComponent: false
+    materialHolder: true
+    mixamoAnimation: false
+    printDebug: true
+    renderOrder: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> fa18c216-d740-4ddd-acb4-8cfe095af07c
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    - bitmojiType: !<float> 0.000000
+      friendsComponent: !<reference.Component> 00000000-0000-0000-0000-000000000000
+      friendIndex: 0
+      mixamoAnimation: true
+      autoDownload: true
+      renderOrder: 0
+      castShadow: true
+      materialHolder: !<reference.Material> 40b3147b-e211-4919-9ba0-bedd05c60132
+      printDebug: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input float bitmojiType {"widget":"combobox", "values":[{"label":"None", "value":-1}, {"label":"Me", "value":0}, {"label":"My Friend", "value":1}, {"label":"My AI", "value":2}]}'
+    - '// @input Component friendsComponent {"hint":"Optional: \nInstall Friends Custom Component from Asset Library\nAdd it to Scene \nReference added component here", "showIf":"bitmojiType", "showIfValue":"1"}'
+    - '// @input int friendIndex {"showIf":"bitmojiType", "showIfValue":"1"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool mixamoAnimation = true {"label":"Adapt to Mixamo", "hint":"Adapt to a Mixamo style rig"}'
+    - '// @ui {"widget":"separator"}'
+    - '// @input bool autoDownload = true {"hint":"download using Bitmoji.download() api instead"}'
+    - '// @ui {"widget":"separator"}'
+    - // @input int renderOrder
+    - '// @input bool castShadow = true {"hint":"To see this in action add shadow plane and enable shadows on the light source"}'
+    - // @input Asset.Material materialHolder
+    - // @input bool printDebug = true

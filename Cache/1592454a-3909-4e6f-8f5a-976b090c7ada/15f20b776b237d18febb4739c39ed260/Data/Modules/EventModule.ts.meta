@@ -1,0 +1,43 @@
+- !<AssetImportMetadata/7206bb8a-c3a7-4758-844e-67bb9b03a7d9>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> eaed9465-3a01-4092-8f24-103a40681305
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> eaed9465-3a01-4092-8f24-103a40681305
+  PackageType: NotAPackage
+  PackagePolicy: CannotBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 0955e849-2b7a-4566-b603-a3be2853e3a2
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/0955e849-2b7a-4566-b603-a3be2853e3a2>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: TS implementation of Events Module
+  InternalVersion: 1
+  VersionMajor: 2
+  VersionMinor: 0
+  VersionPatch: 0
+  ComponentUid: 12d25ad6-bcf9-4215-8278-fcff07eedffe
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  CurrentVisibility: Editable
+  MaxVisibility: Editable
+  ScriptInputsHidden:
+    {}
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  DefaultScriptInputs:
+    -
+      {}
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    []

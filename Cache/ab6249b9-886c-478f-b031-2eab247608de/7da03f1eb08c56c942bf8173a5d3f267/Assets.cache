@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    fc5d3882-99a8-4279-9f14-eeceb69aa074: ab6249b9-886c-478f-b031-2eab247608de/7da03f1eb08c56c942bf8173a5d3f267/Data/spray.png
+  Assets:
+    - !<FileTexture/fc5d3882-99a8-4279-9f14-eeceb69aa074>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 7da03f1eb08c56c942bf8173a5d3f267
+  FileHash: c5de26b5bb3838429249617dc1749eb7
+  NativePackageItems:
+    []

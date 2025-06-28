@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    e7277407-2ca5-404c-bc6e-0ea5d59d83ca: 9c12d3a0-3952-410f-b168-26411f9ff0ca/583140d258e4668c6b0c7dc159c38370/Data/checkers.png
+  Assets:
+    - !<FileTexture/e7277407-2ca5-404c-bc6e-0ea5d59d83ca>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 583140d258e4668c6b0c7dc159c38370
+  FileHash: c1f926048c27b6a7b6f6b3f2c7cb93d8
+  NativePackageItems:
+    []

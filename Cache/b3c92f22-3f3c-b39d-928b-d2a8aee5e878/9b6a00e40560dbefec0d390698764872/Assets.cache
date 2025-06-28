@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    35b2684a-2000-45d8-b71b-4a265e676d8a: b3c92f22-3f3c-b39d-928b-d2a8aee5e878/9b6a00e40560dbefec0d390698764872/Data/house_normal.png
+  Assets:
+    - !<FileTexture/35b2684a-2000-45d8-b71b-4a265e676d8a>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 9b6a00e40560dbefec0d390698764872
+  FileHash: f92fc9b7fda146c2879665996da32661
+  NativePackageItems:
+    []

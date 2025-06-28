@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2281447f-2d3a-4b69-a6f7-3a2300edf814: 2919126b-2c8c-4e2d-98fd-881d91fd0ed7/03d4b00f6c62ebfde790723aba328407/Data/zigzag.png
+  Assets:
+    - !<FileTexture/2281447f-2d3a-4b69-a6f7-3a2300edf814>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 03d4b00f6c62ebfde790723aba328407
+  FileHash: 90ffeb19aa0c1c96157d4ada73b5104b
+  NativePackageItems:
+    []

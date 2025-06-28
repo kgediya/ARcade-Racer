@@ -1,0 +1,10 @@
+- !<AssetCache>
+  AssetFiles:
+    edad7d53-55da-40b1-9025-fad0e7207862: 0c18e824-d814-1a6d-954e-5f68ab5b4b62/c225d3eafa3d8810895bcc77e5e6c6ef/Data/TriggerStartAudioTrack.wav
+  Assets:
+    - !<FileAudioTrack/edad7d53-55da-40b1-9025-fad0e7207862>
+      PackagePath: ""
+  SourceHash: c225d3eafa3d8810895bcc77e5e6c6ef
+  FileHash: 77644694204b04ceedc6bd8247c2b0ab
+  NativePackageItems:
+    []

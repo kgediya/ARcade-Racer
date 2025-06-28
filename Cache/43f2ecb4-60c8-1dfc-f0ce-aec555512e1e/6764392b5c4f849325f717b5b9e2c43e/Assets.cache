@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    3fd9d803-a5d2-4485-b456-39a74213bf52: 43f2ecb4-60c8-1dfc-f0ce-aec555512e1e/6764392b5c4f849325f717b5b9e2c43e/Data/mouth_smile.mesh
+  Assets:
+    - !<FileMesh/3fd9d803-a5d2-4485-b456-39a74213bf52>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 136
+        Vertices: 97
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 102.248589, y: 27.470608, z: 4.008281}
+  SourceHash: 6764392b5c4f849325f717b5b9e2c43e
+  FileHash: 8460add2ead4d51120135cafdae29a3b
+  NativePackageItems:
+    []

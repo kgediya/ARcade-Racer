@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    fe3186c8-6d87-42b1-8ad5-7b39cd9684bb: 417ffad7-7c46-45e7-9289-4a1a7578880f/48b371526b71f50554bcd69226839be6/Data/circle_mask.pvr
+  Assets:
+    - !<FileTexture/fe3186c8-6d87-42b1-8ad5-7b39cd9684bb>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 48b371526b71f50554bcd69226839be6
+  FileHash: a9b82cbfdc7b613d302dba668342475e
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    9d581424-6770-4167-856a-06bf77664b57: 2286993c-f6ac-4c5b-abf3-f9eb388e3eab/adcec0d46aafce513f15ad806347a333/Data/flower_mask.pvr
+  Assets:
+    - !<FileTexture/9d581424-6770-4167-856a-06bf77664b57>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: adcec0d46aafce513f15ad806347a333
+  FileHash: 13a84159633d53bbcc3fe4220b5911e4
+  NativePackageItems:
+    []

@@ -1,0 +1,34 @@
+- !<NativePackageDescriptor/8d2e3d11-8b91-411c-b4dc-e535b9a9b8c8>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 10
+    patch: 1
+    build: 25061003
+    type: Unset
+  Description: The Behavior helper script allows you to create simple interactions without writing any custom script. With Behavior, interactions are completely configured in the Inspector panel. It allows you to configure the trigger type which defines when something should happen. Next, it allows you to configure what should happen as a response to a trigger. The selectable responses include a number of commonly used interactions like playing an animation, playing a sound, enabling an object and more.
+  SvgIcon: "<svg width=\"512\" height=\"512\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect width=\"512\" height=\"512\" fill=\"white\" fill-opacity=\"0.02\"/>\n<g filter=\"url(#filter0_d_4_2)\">\n<rect x=\"35\" y=\"31\" width=\"441.552\" height=\"109.058\" rx=\"25\" fill=\"#FF7F00\" stroke=\"white\" stroke-width=\"6\"/>\n<rect x=\"35\" y=\"371.474\" width=\"441.552\" height=\"109.058\" rx=\"25\" fill=\"#F55FAE\" stroke=\"white\" stroke-width=\"6\"/>\n<rect x=\"35\" y=\"201.237\" width=\"441.552\" height=\"109.058\" rx=\"25\" fill=\"white\" stroke=\"white\" stroke-width=\"6\"/>\n<mask id=\"mask0_4_2\" style=\"mask-type:alpha\" maskUnits=\"userSpaceOnUse\" x=\"35\" y=\"201\" width=\"442\" height=\"110\">\n<rect x=\"35\" y=\"201.237\" width=\"441.552\" height=\"109.058\" rx=\"25\" fill=\"white\"/>\n</mask>\n<g mask=\"url(#mask0_4_2)\">\n<path d=\"M-90.924 -160.359L662.946 496.301L693.827 460.848L-60.0426 -195.812L-90.924 -160.359Z\" fill=\"#5ECCF2\"/>\n<path d=\"M-126.538 -119.896L627.332 536.764L658.214 501.311L-95.6564 -155.349L-126.538 -119.896Z\" fill=\"#9DC679\"/>\n<path d=\"M-162.152 -79.4321L591.718 577.227L622.6 541.774L-131.27 -114.885L-162.152 -79.4321Z\" fill=\"#FDCB3E\"/>\n<path d=\"M-197.765 -38.9687L556.104 617.691L586.986 582.238L-166.884 -74.4217L-197.765 -38.9687Z\" fill=\"#EF8F5A\"/>\n<path d=\"M-233.141 1.32938L520.729 657.989L551.612 622.535L-202.258 -34.1245L-233.141 1.32938Z\" fill=\"#F3575A\"/>\n<path d=\"M-55.4918 -200.982L694.987 459.551L726.05 424.257L-24.4283 -236.276L-55.4918 -200.982Z\" fill=\"#B96DA7\"/>\n<path d=\"M-267.928 42.8954L485.942 699.555L516.824 664.101L-237.046 7.44153L-267.928 42.8954Z\" fill=\"#E86C9D\"/>\n</g>\n<rect x=\"35\" y=\"201.237\" width=\"441.552\" height=\"109.058\" rx=\"25\" stroke=\"white\" stroke-width=\"6\"/>\n<path d=\"M257.771 125.388C248.935 125.388 241.771 132.552 241.771 141.388C241.771 150.225 248.935 157.388 257.771 157.388C266.608 157.388 273.771 150.225 273.771 141.388C273.771 132.552 266.608 125.388 257.771 125.388ZM257.771 185.237C248.935 185.237 241.771 192.401 241.771 201.237C241.771 210.074 248.935 217.237 257.771 217.237C266.608 217.237 273.771 210.074 273.771 201.237C273.771 192.401 266.608 185.237 257.771 185.237ZM257.771 141.388L254.771 141.388L254.771 201.237L257.771 201.237L260.771 201.237L260.771 141.388L257.771 141.388Z\" fill=\"black\"/>\n<path d=\"M258.436 294.295C249.6 294.295 242.436 301.459 242.436 310.295C242.436 319.132 249.6 326.295 258.436 326.295C267.273 326.295 274.436 319.132 274.436 310.295C274.436 301.459 267.273 294.295 258.436 294.295ZM258.436 354.144C249.6 354.144 242.436 361.308 242.436 370.144C242.436 378.981 249.6 386.144 258.436 386.144C267.273 386.144 274.436 378.981 274.436 370.144C274.436 361.308 267.273 354.144 258.436 354.144ZM258.436 310.295L255.436 310.295L255.436 370.144L258.436 370.144L261.436 370.144L261.436 310.295L258.436 310.295Z\" fill=\"black\"/>\n</g>\n<ellipse cx=\"257.287\" cy=\"141.012\" rx=\"9.13507\" ry=\"9.64258\" fill=\"white\"/>\n<circle cx=\"257.287\" cy=\"201.405\" r=\"9.13507\" fill=\"white\"/>\n<circle cx=\"258.302\" cy=\"310.011\" r=\"9.13507\" fill=\"white\"/>\n<ellipse cx=\"258.302\" cy=\"370.404\" rx=\"9.13507\" ry=\"9.64258\" fill=\"white\"/>\n<defs>\n<filter id=\"filter0_d_4_2\" x=\"28\" y=\"28\" width=\"455.552\" height=\"463.532\" filterUnits=\"userSpaceOnUse\" color-interpolation-filters=\"sRGB\">\n<feFlood flood-opacity=\"0\" result=\"BackgroundImageFix\"/>\n<feColorMatrix in=\"SourceAlpha\" type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0\" result=\"hardAlpha\"/>\n<feOffset dy=\"4\"/>\n<feGaussianBlur stdDeviation=\"2\"/>\n<feComposite in2=\"hardAlpha\" operator=\"out\"/>\n<feColorMatrix type=\"matrix\" values=\"0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0\"/>\n<feBlend mode=\"normal\" in2=\"BackgroundImageFix\" result=\"effect1_dropShadow_4_2\"/>\n<feBlend mode=\"normal\" in=\"SourceGraphic\" in2=\"effect1_dropShadow_4_2\" result=\"shape\"/>\n</filter>\n</defs>\n</svg>\n"
+  SetupScript:
+    code: ""
+  InternalVersion: 4
+  VersionMajor: 1
+  VersionMinor: 2
+  VersionPatch: 0
+  UpdateCheckpoint: 61
+  ExportUid: b4b8598f-ed17-4246-bde2-1e7c497ae299
+  ComponentUid: cadba2a7-db5d-4714-886f-e16b9441133d
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  Instantiable: !<reference> a92b8e3e-690d-4b45-b744-161ceabc0ffc
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 313
+  clientVersion: 13.4200001

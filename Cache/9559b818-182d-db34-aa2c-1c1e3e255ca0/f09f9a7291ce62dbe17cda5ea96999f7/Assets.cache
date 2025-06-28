@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    2c40b49e-198a-48d2-a1a6-d69f1ebb1ac8: 9559b818-182d-db34-aa2c-1c1e3e255ca0/f09f9a7291ce62dbe17cda5ea96999f7/Data/Tree_normal.png
+  Assets:
+    - !<FileTexture/2c40b49e-198a-48d2-a1a6-d69f1ebb1ac8>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: f09f9a7291ce62dbe17cda5ea96999f7
+  FileHash: 5b715ad48d290c7a5dd46d7a1b88bd09
+  NativePackageItems:
+    []

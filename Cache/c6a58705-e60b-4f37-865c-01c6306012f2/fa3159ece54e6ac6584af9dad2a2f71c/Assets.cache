@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    af7ba592-3e7c-44b4-8b48-9a043cf92bf4: c6a58705-e60b-4f37-865c-01c6306012f2/fa3159ece54e6ac6584af9dad2a2f71c/Data/circle_faded_mask.pvr
+  Assets:
+    - !<FileTexture/af7ba592-3e7c-44b4-8b48-9a043cf92bf4>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: fa3159ece54e6ac6584af9dad2a2f71c
+  FileHash: 80644b07d3979414fc3304c39d89c3a4
+  NativePackageItems:
+    []

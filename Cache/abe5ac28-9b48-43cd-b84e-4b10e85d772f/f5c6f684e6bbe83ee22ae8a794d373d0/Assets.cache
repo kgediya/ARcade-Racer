@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    31f2fac8-432d-4943-a1c7-f051a7e7ff21: abe5ac28-9b48-43cd-b84e-4b10e85d772f/f5c6f684e6bbe83ee22ae8a794d373d0/Data/square_faded_mask.pvr
+  Assets:
+    - !<FileTexture/31f2fac8-432d-4943-a1c7-f051a7e7ff21>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: f5c6f684e6bbe83ee22ae8a794d373d0
+  FileHash: f91a2070ceab57f1ba8841a23ee6378e
+  NativePackageItems:
+    []

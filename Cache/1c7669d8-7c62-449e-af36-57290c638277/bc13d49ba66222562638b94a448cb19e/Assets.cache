@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    dd1becf9-69f3-4176-b544-285c0810b9a1: 1c7669d8-7c62-449e-af36-57290c638277/bc13d49ba66222562638b94a448cb19e/Data/poly_mask.pvr
+  Assets:
+    - !<FileTexture/dd1becf9-69f3-4176-b544-285c0810b9a1>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: bc13d49ba66222562638b94a448cb19e
+  FileHash: 30022236c7e4b0fa470659bf5c76f646
+  NativePackageItems:
+    []

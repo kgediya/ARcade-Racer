@@ -1,0 +1,17 @@
+- !<AssetCache>
+  AssetFiles:
+    169b91f5-0680-4a2f-b463-7229a2c517c9: 189f2ff7-1650-4242-ac06-fc53febdf37f/98757dcc313c0524345fd5712b1b432e/Data/Capsule.mesh
+  Assets:
+    - !<FileMesh/169b91f5-0680-4a2f-b463-7229a2c517c9>
+      PackagePath: ""
+      Info: !<MeshInfo>
+        Triangles: 352
+        Vertices: 219
+        Blendshapes:
+          []
+        Joints: 0
+        AabbSize: {x: 0.500000, y: 1.000000, z: 0.500000}
+  SourceHash: 98757dcc313c0524345fd5712b1b432e
+  FileHash: 7ff14eb2053462942f9f28b8ccbe524e
+  NativePackageItems:
+    []

@@ -1,0 +1,13 @@
+- !<AssetCache>
+  AssetFiles:
+    1ada7763-0292-4495-8f07-6318c1ccb773: ac4c9618-f5b1-4754-b9c4-9b79c8642fe5/0ae5249b8031384090ef09238f571cec/Data/star_mask.pvr
+  Assets:
+    - !<FileTexture/1ada7763-0292-4495-8f07-6318c1ccb773>
+      PackagePath: ""
+      FileInfo: !<FileTextureInfo>
+        Width: 1024
+        Height: 1024
+  SourceHash: 0ae5249b8031384090ef09238f571cec
+  FileHash: 6b57d3c3d1e74c8ac6b2e15bbb9b175e
+  NativePackageItems:
+    []

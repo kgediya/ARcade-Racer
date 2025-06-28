@@ -1,0 +1,264 @@
+- !<AssetImportMetadata/bc6f6ff7-3890-4bcf-8cd7-c81951ac11c0>
+  ImportedAssetIds:
+    .hidden/Coin: !<reference> 88b0bae2-bf7a-4478-9ddf-47b4681e0f42
+    0db8117a0fa303e9: !<reference> a5330db7-70b7-4270-8a85-5622fde6f941
+    6219d73ae8e2a78e: !<reference> 6f07e85d-42d0-4281-831c-dfe99b0707ed
+    624f6792bd6e379e: !<reference> f226ad69-c378-47a7-b897-ea4d787f8ade
+    648cbbb385c002b3: !<reference> c700b1e0-8c33-40e4-b399-a76e842e3f03
+    6bb7c5ca02a43e77: !<reference> fcf39458-d0ae-49f5-afa5-4366fab9c4c7
+    74ac62952cfa8861: !<reference> 644b8e0e-7a98-4d05-acbe-b38d7450be77
+    7a0dd5cd69df73fa: !<reference> 0332c610-443a-49a6-94c0-8e7a4daabf38
+    83437620bbb97154: !<reference> dce04932-a5a6-445e-a39d-17d909fe41bf
+    836554558f1ca498: !<reference> 1fdbacd7-d2b7-4b8b-a9dd-65639e79470e
+    86e319ba8e086165: !<reference> 925e0ed8-7f8e-4542-8677-d133d1610090
+    Animations/CoinObj_Coin: !<reference> a0ab9fb3-5bee-4ac8-9eaf-a39640dfda7f
+    Materials/Coin: !<reference> 53852da1-a3c2-4ac1-b517-f97e2e1fecdc
+    Materials/Coin|Coin|GraphPassInfo: !<reference> 5335f372-b7a7-467f-9963-12eaa3ce565f
+    Meshes/CoinObj_Coin_0: !<reference> 7eb3b9d8-6ad7-49e6-9a8f-f1065b834dce
+    Scene: !<reference> 09745799-57ee-4ab2-9435-f4a233235e84
+    a573d26b40a62245: !<reference> 74b85b4a-0425-4e77-9bf6-fbff1c4114ab
+    b6def43d18efe3dd: !<reference> fff8ed06-41eb-4174-b738-113f167c74f6
+  ImporterName: GltfImporter
+  PrimaryAsset: !<reference> 09745799-57ee-4ab2-9435-f4a233235e84
+  PackageType: LegacyPackage
+  PackagePolicy: CanBeUnpacked
+  ExtraData:
+    {}
+  AssetDataMap:
+    Scene: !<own> 93d92a7b-984a-47f8-a0ac-1947485366e3
+  DependentFiles:
+    []
+  ImporterSettings: !<GltfImporterSettings>
+    UseLegacyImporter: false
+    WithMaterials: true
+    NamingConvention: ByCategorySanitizeV2
+    PersistentIdGenerationAlgorithm: DescriptorBased
+    AnimationCurveOptimization: true
+    CustomAnimationSamplingRate: 30.000000
+    ImportVertexColor: true
+    ImportTangents: true
+    ImportMorphTargetAnimation: true
+    ConvertMetersToCentimeters: true
+    RegenerateTangents: false
+  CompressionSettings: !<ComplexCompressionSettings>
+    Presets:
+      None Compression: !<SingleCompressionSettings>
+        CompressorName: None
+        CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+    ExtensionMappings:
+      mesh: None Compression
+    Overrides:
+      {}
+- !<SceneObject/035a5e3d-4e6f-4ec4-80b1-a4c474fc2817>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_model
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: -90.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7f5a74ea-f1c0-4d59-9cdc-ae23c895344f
+  Components:
+    []
+- !<SceneObject/1d869f17-0956-473e-8706-ef84360864e4>
+  PrefabRemaps:
+    []
+  Name: Sketchfab_Scene
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 035a5e3d-4e6f-4ec4-80b1-a4c474fc2817
+  Components:
+    - !<own> 4cd96b4a-e773-427d-a805-8ff1c2039003
+- !<ObjectPrefab/3eff3605-2749-47c8-9d73-a4cf00a2d5b2>
+  PackagePath: ""
+  objects:
+    - !<own> 4cae5704-b998-4ab9-b105-5922d30d05a8
+  LazyLoading: false
+  RetainAssets: true
+- !<SceneObject/4cae5704-b998-4ab9-b105-5922d30d05a8>
+  PrefabRemaps:
+    []
+  Name: coin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 100.000000, y: 100.000000, z: 100.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 6ef6410d-2699-4bdc-8104-fae1fceab0dd
+  Components:
+    []
+- !<AnimationPlayer/4cd96b4a-e773-427d-a805-8ff1c2039003>
+  PrefabRemaps:
+    []
+  Name: component_1
+  Enabled: true
+  Autoplay: true
+  ClipRangeType: Frames
+  AnimationClips:
+    - !<AnimationClip>
+      AnimationAsset: !<reference> a0ab9fb3-5bee-4ac8-9eaf-a39640dfda7f
+      Name: CoinObj|Coin
+      Weight: 1.000000
+      PlaybackSpeed: 1.000000
+      Begin: 0.000000
+      End: 24.999990
+      Offset: 0.000000
+      Reversed: false
+      Disabled: false
+      BlendMode: Default
+      ScaleMode: Multiply
+      PlaybackMode: Loop
+- !<SceneObject/6ef6410d-2699-4bdc-8104-fae1fceab0dd>
+  PrefabRemaps:
+    []
+  Name: Scenes
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 1d869f17-0956-473e-8706-ef84360864e4
+  Components:
+    []
+- !<SceneObject/7ebbe1e7-df2a-4992-9322-c77456074de8>
+  PrefabRemaps:
+    []
+  Name: RootNode
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> c8b9dc8c-4772-40c0-a054-cadaf925db27
+  Components:
+    []
+- !<SceneObject/7f5a74ea-f1c0-4d59-9cdc-ae23c895344f>
+  PrefabRemaps:
+    []
+  Name: dac838890acf4045a602c11254a10146.fbx
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 90.000000, y: -0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> aed3df66-73fd-4036-8d1d-e901e29b02ff
+  Components:
+    []
+- !<SceneObject/8e0f24af-32c8-414f-a539-31e50704965e>
+  PrefabRemaps:
+    []
+  Name: CoinObj
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: -72.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> e91631f9-cc86-47b4-ab82-5dbcd88f0fe5
+  Components:
+    []
+- !<ObjectPrefabAssetData/93d92a7b-984a-47f8-a0ac-1947485366e3>
+  SourceRemaps:
+    - 0332c610-443a-49a6-94c0-8e7a4daabf38: 4cae5704-b998-4ab9-b105-5922d30d05a8
+    - 09745799-57ee-4ab2-9435-f4a233235e84: 3eff3605-2749-47c8-9d73-a4cf00a2d5b2
+    - 1fdbacd7-d2b7-4b8b-a9dd-65639e79470e: 4cd96b4a-e773-427d-a805-8ff1c2039003
+    - 644b8e0e-7a98-4d05-acbe-b38d7450be77: c5cd85e1-9a6a-4bb9-a5bb-822d1812faa6
+    - 6f07e85d-42d0-4281-831c-dfe99b0707ed: 1d869f17-0956-473e-8706-ef84360864e4
+    - 74b85b4a-0425-4e77-9bf6-fbff1c4114ab: 7ebbe1e7-df2a-4992-9322-c77456074de8
+    - 925e0ed8-7f8e-4542-8677-d133d1610090: e91631f9-cc86-47b4-ab82-5dbcd88f0fe5
+    - a5330db7-70b7-4270-8a85-5622fde6f941: 8e0f24af-32c8-414f-a539-31e50704965e
+    - c700b1e0-8c33-40e4-b399-a76e842e3f03: aed3df66-73fd-4036-8d1d-e901e29b02ff
+    - dce04932-a5a6-445e-a39d-17d909fe41bf: 035a5e3d-4e6f-4ec4-80b1-a4c474fc2817
+    - f226ad69-c378-47a7-b897-ea4d787f8ade: 6ef6410d-2699-4bdc-8104-fae1fceab0dd
+    - fcf39458-d0ae-49f5-afa5-4366fab9c4c7: c8b9dc8c-4772-40c0-a054-cadaf925db27
+    - fff8ed06-41eb-4174-b738-113f167c74f6: 7f5a74ea-f1c0-4d59-9cdc-ae23c895344f
+  SourceState: !<own> 3eff3605-2749-47c8-9d73-a4cf00a2d5b2
+- !<SceneObject/aed3df66-73fd-4036-8d1d-e901e29b02ff>
+  PrefabRemaps:
+    []
+  Name: Object_2
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 7ebbe1e7-df2a-4992-9322-c77456074de8
+  Components:
+    []
+- !<RenderMeshVisual/c5cd85e1-9a6a-4bb9-a5bb-822d1812faa6>
+  PrefabRemaps:
+    []
+  Name: CoinObj_Coin_0
+  Enabled: true
+  RenderOrder: 0
+  StretchMode: Stretch
+  VerticalAlignment: Center
+  HorizontalAlignment: Center
+  MeshShadowMode: None
+  ShadowColor: {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}
+  ShadowDensity: 1.000000
+  Materials:
+    - !<reference> 53852da1-a3c2-4ac1-b517-f97e2e1fecdc
+  Mesh: !<reference> 7eb3b9d8-6ad7-49e6-9a8f-f1065b834dce
+  Skin: !<reference> 00000000-0000-0000-0000-000000000000
+  BlendShapesEnabled: true
+  BlendNormals: false
+  BlendShapes:
+    {}
+- !<SceneObject/c8b9dc8c-4772-40c0-a054-cadaf925db27>
+  PrefabRemaps:
+    []
+  Name: Coin
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    - !<own> 8e0f24af-32c8-414f-a539-31e50704965e
+  Components:
+    []
+- !<SceneObject/e91631f9-cc86-47b4-ab82-5dbcd88f0fe5>
+  PrefabRemaps:
+    []
+  Name: CoinObj_Coin_0
+  Enabled: true
+  Layers: 1
+  LocalTransform:
+    position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    hasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> c5cd85e1-9a6a-4bb9-a5bb-822d1812faa6

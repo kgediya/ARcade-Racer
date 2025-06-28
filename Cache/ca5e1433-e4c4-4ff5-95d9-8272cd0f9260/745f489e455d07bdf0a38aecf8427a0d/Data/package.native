@@ -1,0 +1,34 @@
+- !<NativePackageDescriptor/4545840f-b2aa-478d-81a4-54af612af37f>
+  PackagePath: ""
+  StudioVersion:
+    major: 5
+    minor: 10
+    patch: 1
+    build: 25061003
+    type: Unset
+  Description: "Provides an example of using World Query Module to place objects in real world\n\nCheck README for instructions!"
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  InternalVersion: 2
+  VersionMajor: 1
+  VersionMinor: 0
+  VersionPatch: 0
+  UpdateCheckpoint: 61
+  ExportUid: b47186d5-01ca-4c61-bd06-d9dc377751a1
+  ComponentUid: 6f54cb20-a776-4b14-bee1-451dc4798121
+  CurrentVisibility: Locked
+  MaxVisibility: Editable
+  ReadMe: !<reference> 7ee57c11-fa32-4d7f-96be-9a84a518430c
+  Instantiable: !<reference> 00000000-0000-0000-0000-000000000000
+  AssetLibraryDependencyStructure: !<AssetLibraryDependencyStructure>
+    Name: ""
+    AssetId: ""
+    Hash: ""
+    Version:
+      major: 0
+      minor: 0
+      patch: 0
+      build: 0
+  coreVersion: 313
+  clientVersion: 13.4200001
