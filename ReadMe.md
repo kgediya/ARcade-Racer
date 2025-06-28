@@ -61,7 +61,7 @@ ARCADE RACER OS/
 ├── PluginsUserPreferences/ # Lens Studio preferences
 ├── Support/                 # Documentation or dev notes
 ├── Workspaces/              # Saved Lens Studio layout
-├── ARcade Racer OS.editor  # Main Lens Studio project file
+├── ARcade Racer OS.esproj # Main Lens Studio project file
 ├── icon.png                 # Icon for the lens
 ├── jsconfig.json            # JS runtime config
 └── tsconfig.json            # TypeScript support
