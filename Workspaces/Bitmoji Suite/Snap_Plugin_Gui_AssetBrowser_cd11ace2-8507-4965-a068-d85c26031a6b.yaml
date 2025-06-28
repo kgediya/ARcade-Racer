@@ -588,5 +588,5 @@ CollapsedEntities:
       - World Query Hit - Spawn On Surface.lspkg/Shaders/pbr.ss_graph
       - World Query Hit - Spawn On Surface.lspkg/Textures
       - World Query Hit - Spawn On Surface.lspkg/World Query Hit Example__ADD_TO_SCENE.prefab
-      - World Query Hit - Spawn On Surface.lspkg/WorldQueryHitExample.ts
+      - World Query Hit - Spawn On Surface.lspkg/WorldQueryHitSpawner.ts
   options: 4

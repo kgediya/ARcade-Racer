@@ -399,7 +399,7 @@
 - !<ScriptComponent/c8757569-9a8f-4fd7-b0f1-2375e250943a>
   PrefabRemaps:
     []
-  Name: WorldQueryHitExample
+  Name: WorldQueryHitSpawner
   Enabled: true
   ScriptAsset: !<reference> 4af91f0b-dfd5-4e60-9ae1-e13c6ac3c8f7
   ScriptInputsDefault:

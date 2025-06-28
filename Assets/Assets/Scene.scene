@@ -1162,7 +1162,7 @@
     - db2efd4c-73b9-4e64-8375-d681a5133bb2: eb7ad1f1-bf14-4a5a-93ce-fe2dbc2656a3
     - df1e39e5-a0dc-4f26-bf61-e1f15f9f3960: ad79efcb-aa26-4c66-a911-4edde3bc6b6e
     - eb24e815-07da-4dd6-8d9a-5202905b2b08: ed56fbc9-f245-4994-862d-a0ea80af9cdd
-  Name: World Query Hit Example
+  Name: ARSpawner
   Enabled: true
   Layers: 1
   LocalTransform:
@@ -1614,7 +1614,7 @@
 - !<ScriptComponent/629b221c-84ec-4a77-b002-8371e2bf4ae9>
   PrefabRemaps:
     []
-  Name: WorldQueryHitExample
+  Name: WorldQueryHitSpawner
   Enabled: true
   ScriptAsset: !<reference> 4af91f0b-dfd5-4e60-9ae1-e13c6ac3c8f7
   ScriptInputsDefault:
@@ -3004,7 +3004,7 @@
 - !<SceneObject/ae727063-7e8e-4257-a669-e4321f468b4e>
   PrefabRemaps:
     []
-  Name: "World Query Example [EDIT ME]"
+  Name: WorldObjectSpawner
   Enabled: true
   Layers: 1
   LocalTransform:
