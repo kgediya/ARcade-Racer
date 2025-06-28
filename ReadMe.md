@@ -43,7 +43,7 @@ Objects like coins and obstacles are spawned only on horizontal ground using **S
 ### 🧰 3D Printed Mobile Mount
 Includes `.blend` and `.glb` versions of a 3D-printed mobile mount that securely attaches your phone to your RC car.
 
-![3D Mount](./Preview%20Files/preview5.gif)
+![3D Mount](./Preview%20Files/preview3.gif)
 
 - Optimized for phone size and camera alignment with physical rc car body
 - Designed to stabilize tracking & reduce drift
@@ -123,5 +123,6 @@ Built with ❤️ by [**Krazyy Krunal**](https://instagram.com/krazyykrunal)
 
 3D Phone Mount designed & printed by [**Aakash Mansukhani**](https://www.instagram.com/extraakash)
 
+#KrazyyKash
 ---
 
